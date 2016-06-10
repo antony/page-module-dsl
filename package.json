@@ -1,0 +1,15 @@
+{
+  "name": "js-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "magic.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha magic.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "code": "^3.0.1",
+    "mocha": "^2.5.3"
+  }
+}
